@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHudButton.a  CMakeFiles/HudButton.dir/Hud/Button.cpp.o
+/usr/bin/ranlib libHudButton.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHudTextToRend.a  CMakeFiles/HudTextToRend.dir/Hud/TextToRenderable.cpp.o
+/usr/bin/ranlib libHudTextToRend.a

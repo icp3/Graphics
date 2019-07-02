@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHudQuad.a  CMakeFiles/HudQuad.dir/Hud/Quad.cpp.o
+/usr/bin/ranlib libHudQuad.a

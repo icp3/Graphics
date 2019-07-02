@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHudPlayerHudInit.a  CMakeFiles/HudPlayerHudInit.dir/Hud/PlayerHUDInit.cpp.o
+/usr/bin/ranlib libHudPlayerHudInit.a

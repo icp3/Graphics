@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHud.a  CMakeFiles/Hud.dir/Hud/TextStringInit.cpp.o CMakeFiles/Hud.dir/Hud/TextToRenderable.cpp.o CMakeFiles/Hud.dir/Hud/Quad.cpp.o CMakeFiles/Hud.dir/Hud/Crosshair.cpp.o CMakeFiles/Hud.dir/Hud/Button.cpp.o CMakeFiles/Hud.dir/Hud/PlayerHUDInit.cpp.o
+/usr/bin/ranlib libHud.a

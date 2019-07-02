@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHudCrosshair.a  CMakeFiles/HudCrosshair.dir/Hud/Crosshair.cpp.o
+/usr/bin/ranlib libHudCrosshair.a
