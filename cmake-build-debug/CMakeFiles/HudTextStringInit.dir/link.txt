@@ -1,2 +1,0 @@
-/usr/bin/ar qc libHudTextStringInit.a  CMakeFiles/HudTextStringInit.dir/Hud/TextStringInit.cpp.o
-/usr/bin/ranlib libHudTextStringInit.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libCamera.a  CMakeFiles/Camera.dir/Camera/CameraUpdateVectors.cpp.o CMakeFiles/Camera.dir/Camera/CameraInit.cpp.o CMakeFiles/Camera.dir/Camera/CameraProcessKeyboard.cpp.o CMakeFiles/Camera.dir/Camera/CameraProcessMouse.cpp.o
-/usr/bin/ranlib libCamera.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libGame_World.a  CMakeFiles/Game_World.dir/Game_World/Chunk_Init.cpp.o CMakeFiles/Game_World.dir/Game_World/ChunkToRenderable.cpp.o CMakeFiles/Game_World.dir/Game_World/ChunkUpdate.cpp.o CMakeFiles/Game_World.dir/Game_World/GameWorldInit.cpp.o
-/usr/bin/ranlib libGame_World.a

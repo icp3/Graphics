@@ -1,7 +1,0 @@
-/home/ian/CLionProjects/Surface_Graphics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ian/CLionProjects/Surface_Graphics/cmake-build-debug/CMakeFiles/Game_World.dir
-/home/ian/CLionProjects/Surface_Graphics/cmake-build-debug/CMakeFiles/Hud.dir
-/home/ian/CLionProjects/Surface_Graphics/cmake-build-debug/CMakeFiles/Camera.dir
-/home/ian/CLionProjects/Surface_Graphics/cmake-build-debug/CMakeFiles/Surface_Graphics.dir
-/home/ian/CLionProjects/Surface_Graphics/cmake-build-debug/CMakeFiles/Memory.dir
-/home/ian/CLionProjects/Surface_Graphics/cmake-build-debug/CMakeFiles/edit_cache.dir
